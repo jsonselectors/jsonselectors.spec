@@ -1,1 +1,1 @@
-# jsonselector.spec
+# jsonselectors.spec
