@@ -1,4 +1,2 @@
-===========================
-JSONSelectors Specification
-===========================
+# JSONSelectors Specification
 
